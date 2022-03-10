@@ -40,11 +40,11 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   itemCountry: {
-    flexDirection: 'row',
-    justifyContent: 'flex-start',
-    alignItems: 'center',
-    paddingHorizontal: 5,
-  },
+        flexDirection: 'row',
+        justifyContent: 'center',
+        alignItems: 'center',
+        paddingHorizontal: 15,
+    },
   itemCountryName: {
     width: '90%',
   },
